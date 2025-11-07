@@ -1,0 +1,117 @@
+{
+  "common": {
+    "appName": "Music Database",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "account": "Account Settings",
+    "logout": "Sign out",
+    "switchTheme": "Switch Theme",
+    "openMenu": "Open Menu",
+    "username": "Username",
+    "email": "user@example.com"
+  },
+  "menu": {
+    "dashboard": "Dashboard",
+    "musicLibrary": "Music Library",
+    "albums": "Albums",
+    "artists": "Artists",
+    "tracks": "Tracks",
+    "playlists": "Playlists",
+    "allPlaylists": "All Playlists",
+    "newPlaylist": "New Playlist",
+    "genres": "Genres",
+    "discover": "Discover",
+    "discoverMusic": "Discover Music",
+    "trending": "Trending",
+    "management": "Management",
+    "users": "User Management",
+    "settings": "System Settings"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "totalAlbums": "Total Albums",
+    "totalArtists": "Total Artists",
+    "totalTracks": "Total Tracks",
+    "totalPlaylists": "Playlists",
+    "recentAlbums": "Recent Albums",
+    "recentAlbumsDesc": "Albums added in the last 7 days",
+    "topArtists": "Top Artists",
+    "topArtistsDesc": "Most played artists",
+    "noData": "No data available",
+    "lastMonth": "from last month"
+  },
+  "albums": {
+    "title": "Albums",
+    "list": "Album List",
+    "listDesc": "Manage and browse all albums",
+    "inDevelopment": "Albums feature in development..."
+  },
+  "artists": {
+    "title": "Artists",
+    "list": "Artist List",
+    "listDesc": "Manage and browse all artists",
+    "inDevelopment": "Artists feature in development..."
+  },
+  "tracks": {
+    "title": "Tracks",
+    "list": "Track List",
+    "listDesc": "Manage and browse all tracks",
+    "inDevelopment": "Tracks feature in development..."
+  },
+  "playlists": {
+    "title": "Playlists",
+    "all": "All Playlists",
+    "allDesc": "Manage and browse all playlists",
+    "new": "New Playlist",
+    "newTitle": "Create Playlist",
+    "newDesc": "Create a new playlist",
+    "inDevelopment": "Playlists feature in development...",
+    "createInDevelopment": "Create playlist feature in development..."
+  },
+  "genres": {
+    "title": "Genres",
+    "list": "Music Genres",
+    "listDesc": "Browse and manage all music genres",
+    "inDevelopment": "Genres feature in development..."
+  },
+  "discover": {
+    "title": "Discover Music",
+    "subtitle": "Discover New Music",
+    "desc": "Explore and discover quality music",
+    "inDevelopment": "Discover feature in development..."
+  },
+  "trending": {
+    "title": "Trending",
+    "subtitle": "Trending Music Charts",
+    "desc": "View the most popular music",
+    "inDevelopment": "Trending feature in development..."
+  },
+  "users": {
+    "title": "User Management",
+    "list": "User List",
+    "listDesc": "Manage system users",
+    "inDevelopment": "User management feature in development..."
+  },
+  "settings": {
+    "title": "System Settings",
+    "subtitle": "System Settings",
+    "desc": "Configure system parameters",
+    "inDevelopment": "Settings feature in development..."
+  },
+  "account": {
+    "title": "Account Settings",
+    "subtitle": "Personal Account",
+    "desc": "Manage your account information",
+    "inDevelopment": "Account settings feature in development..."
+  },
+  "userNav": {
+    "user": "User",
+    "profile": "Profile",
+    "username": "Username",
+    "accountSettings": "Account Settings"
+  },
+  "footer": {
+    "copyright": "© 2025 Music Database. Built with",
+    "builtWith": ""
+  }
+}
