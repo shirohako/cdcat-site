@@ -44,7 +44,7 @@ export function Sidebar() {
                   : "translate-x-0 opacity-100"
               )}
             >
-              音乐数据库
+              CDCat
             </h1>
           </Link>
         </Button>

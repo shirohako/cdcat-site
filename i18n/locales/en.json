@@ -113,5 +113,14 @@
   "footer": {
     "copyright": "© 2025 Music Database. Built with",
     "builtWith": ""
+  },
+  "events": {
+    "title": "Events",
+    "list": "Event List",
+    "listDesc": "Browse all doujin music events and conventions",
+    "chronological": "Chronological",
+    "grouped": "Grouped by Name",
+    "albums": "albums",
+    "inDevelopment": "Events feature in development..."
   }
 }

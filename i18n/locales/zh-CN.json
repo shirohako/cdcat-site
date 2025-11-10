@@ -15,6 +15,7 @@
     "musicLibrary": "音乐库",
     "albums": "专辑",
     "artists": "艺术家",
+    "events": "活动",
     "tracks": "曲目",
     "playlists": "播放列表",
     "allPlaylists": "所有播放列表",
@@ -113,5 +114,14 @@
   "footer": {
     "copyright": "© 2025 音乐数据库. 使用",
     "builtWith": "构建"
+  },
+  "events": {
+    "title": "活动",
+    "list": "活动列表",
+    "listDesc": "浏览所有音乐同人活动和展会",
+    "chronological": "时间顺序",
+    "grouped": "名称分组",
+    "albums": "专辑",
+    "inDevelopment": "活动功能开发中..."
   }
 }
